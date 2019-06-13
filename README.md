@@ -14,7 +14,7 @@ Run the included setup.sh to build the backend and install dependencies for the 
 
 If the shell scripts don't run, you might need to give it execute permissions.
 
-    chmod u+x setup.sh build.sh
+    chmod u+x setup.sh build.sh run.sh
 
 Each time you make changes to the backend you will need to run the build.sh script.
 
