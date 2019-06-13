@@ -1,10 +1,10 @@
 # Prerequisites
 
-Install Node.js
-Install npm
-Install Docker and docker-compose
-Install a Java IDE (preferably IntelliJ Community edition)
-Install a Visual Studio Code
+- Install Node.js
+- Install npm
+- Install Docker and docker-compose
+- Install a Java IDE (preferably IntelliJ Community edition)
+- Install a Visual Studio Code
 
 # Setup Instructions
 
