@@ -26,6 +26,8 @@ Finally when you want to run everything together, you can run the ./run.sh scrip
 
 # Assignment
 
+## Requirements
+
 Using the provided starter apps: 
 
 - Create a RESTful Web Service that can: 
