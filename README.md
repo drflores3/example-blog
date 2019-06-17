@@ -1,6 +1,7 @@
 # Prerequisites
 
 - Install brew for Mac (https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/)
+- Install git for Mac (https://www.atlassian.com/git/tutorials/install-git)
 - Install Node.js and npm (https://treehouse.github.io/installation-guides/mac/node-mac.html)
 - Install Docker and docker-compose (https://docs.docker.com/docker-for-mac/install/)
 - Install a Java IDE (preferably IntelliJ Community edition)
